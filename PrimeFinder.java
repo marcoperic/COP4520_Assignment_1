@@ -3,13 +3,6 @@ import java.io.FileWriter;
 import java.util.*;
 import java.util.concurrent.*;
 
-/*
-   
-    Sum: 279209790387276
-    10 Largest Primes: [99999721, 99999773, 99999827, 99999839, 99999847, 99999931, 99999941, 99999959, 99999971, 99999989]
- 
-*/
-
 public class PrimeFinder
 {
 
@@ -163,7 +156,5 @@ public class PrimeFinder
         {
             e.printStackTrace();
         }
-
-
     }
 }
